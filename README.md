@@ -16,3 +16,6 @@ A standard view that can read in Json data as bindable objects / display the inf
 ### State Management / Binding
 An example on binding data / variables inside an application.
 - Data is entered by the user and stored inside a list. The data is also bound to textfields that update while text is entered.
+
+### Calculator-UI
+An example of a calculator app UI.
