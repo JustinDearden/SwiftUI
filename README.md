@@ -19,3 +19,7 @@ An example on binding data / variables inside an application.
 
 ### Calculator-UI
 An example of a calculator app UI.
+
+### Basic Profile
+A base template for a profile page
+- Future updates to make it look like Instagram profile page
