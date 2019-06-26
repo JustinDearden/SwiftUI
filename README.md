@@ -23,3 +23,6 @@ An example of a calculator app UI.
 ### Basic Profile
 A base template for a profile page
 - Future updates to make it look like Instagram profile page
+
+### Countdown
+A countdown (time) app interface. The digital clock face will countdown based on a user set time till completion
