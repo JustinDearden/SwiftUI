@@ -26,3 +26,6 @@ A base template for a profile page
 
 ### Countdown
 A countdown (time) app interface. The digital clock face will countdown based on a user set time till completion
+
+### AlertView
+An example of how to use the alert view functionality
