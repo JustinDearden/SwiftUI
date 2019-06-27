@@ -29,3 +29,6 @@ A countdown (time) app interface. The digital clock face will countdown based on
 
 ### AlertView
 An example of how to use the alert view functionality
+
+### Badge View
+Creates a simple badge that can be altered with text/color/images. Can be added to a list view. 
