@@ -35,3 +35,6 @@ Creates a simple badge that can be altered with text/color/images. Can be added 
 
 ### Stepper
 Create a stepper element using SwiftUI
+
+### SFSymbols
+A playground that lists all the SYSymbols in SwiftUI. Incorproates screen transitions upon clicking a symbol
