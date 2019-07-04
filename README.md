@@ -38,3 +38,6 @@ Create a stepper element using SwiftUI
 
 ### SFSymbols
 A playground that lists all the SYSymbols in SwiftUI. Incorproates screen transitions upon clicking a symbol
+
+### SplitView
+A SwiftUI view that incorporates a UISplitViewController
