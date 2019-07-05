@@ -18,26 +18,29 @@ An example on binding data / variables inside an application.
 - Data is entered by the user and stored inside a list. The data is also bound to textfields that update while text is entered.
 
 ### Calculator-UI
-An example of a calculator app UI.
+- An example of a calculator app UI.
 
 ### Basic Profile
 A base template for a profile page
 - Future updates to make it look like Instagram profile page
 
 ### Countdown
-A countdown (time) app interface. The digital clock face will countdown based on a user set time till completion
+- A countdown (time) app interface. The digital clock face will countdown based on a user set time till completion
 
 ### AlertView
-An example of how to use the alert view functionality
+- An example of how to use the alert view functionality
 
 ### Badge View
-Creates a simple badge that can be altered with text/color/images. Can be added to a list view. 
+- Creates a simple badge that can be altered with text/color/images. Can be added to a list view. 
 
 ### Stepper
-Create a stepper element using SwiftUI
+- Create a stepper element using SwiftUI
 
 ### SFSymbols
-A playground that lists all the SYSymbols in SwiftUI. Incorproates screen transitions upon clicking a symbol
+- A playground that lists all the SYSymbols in SwiftUI. Incorproates screen transitions upon clicking a symbol
 
 ### SplitView
-A SwiftUI view that incorporates a UISplitViewController
+- A SwiftUI view that incorporates a UISplitViewController
+
+### SlideMenu
+- SwiftUI example of a slide in side menu. Options present to change the colour of the menu, along with controls to dismiss it
