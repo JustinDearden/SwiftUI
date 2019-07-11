@@ -47,3 +47,17 @@ A base template for a profile page
 
 ### Card Animation
 Animate cards with SwiftUI
+#### 3D
+
+For add 3D rotation for back cards use code:
+
+`.rotation3DEffect(
+	Angle(degrees: dragState.isActive ? 0 : 60), axis: (x: 10.0, y: 10.0, z: 10.0)
+ )`
+For medium card use 30 angles.
+
+#### Animation
+
+In preview I am use Spring animation for all cards:
+
+`.animation(.spring())`
