@@ -44,3 +44,6 @@ A base template for a profile page
 
 ### SlideMenu
 - SwiftUI example of a slide in side menu. Options present to change the colour of the menu, along with controls to dismiss it
+
+### Card Animation
+Animate cards with SwiftUI
