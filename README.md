@@ -61,3 +61,9 @@ For medium card use 30 angles.
 In preview I am use Spring animation for all cards:
 
 `.animation(.spring())`
+
+### Horizontal Card Slider
+
+Layout for a single card is created
+- Image and text can be edited or affects added
+- Programatically create duplicates inside a scrollView
